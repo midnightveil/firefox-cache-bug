@@ -14,7 +14,7 @@ The `gen.py` script is to generate the files.
 
 A side-by-side comparison video:
 
-https://github.com/midnightveil/firefox-cache-bug/raw/main/firefox-chrome-side-by-side.mp4
+https://github.com/user-attachments/assets/bf63f45d-bd52-4829-a79f-0daa1ed3baba
 
 (Note that the first few times, we're actually requesting the server, but after that it's only doing a single request to `/`, so this is a caching issue, not something to do with the webservers).
 
